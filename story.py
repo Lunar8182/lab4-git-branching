@@ -15,6 +15,7 @@ def left_path():
 
 def right_path():
     print("You walk right and discover an odd house. You approach the house.")
+    print("You are attacked by an an evil spirit and become souless... Everything fades to black.")
 
 def center_path():
     print("You walk down the center path and encounter a horrible sight.")
