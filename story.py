@@ -13,6 +13,7 @@ def intro():
 def left_path():
     print("You walk left and find an evil witch.")
     print("You defeat the evil witch and save the day!")
+    print("Hooray!")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
