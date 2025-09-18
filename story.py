@@ -14,7 +14,8 @@ def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
 
 def right_path():
-    print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You walk right and discover an odd house. You approach the house.")
+    print("You are attacked by an an evil spirit and become souless... Everything fades to black.")
 
 def center_path():
     print("You walk down the center path and encounter a horrible sight.")
