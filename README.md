@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: Go right and find a house, approach it, and become souless.... fade to black.
 
 ## Final Checklist
 
